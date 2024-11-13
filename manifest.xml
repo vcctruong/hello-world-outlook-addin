@@ -24,7 +24,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://vcctruong.github.io/hello-world-outlook-addin/taskpane.html"/>
+        <SourceLocation DefaultValue="https://github.com/vcctruong/hello-world-outlook-addin/blob/main/taskpane.html"/>
       </DesktopSettings>
     </Form>
   </FormSettings>
